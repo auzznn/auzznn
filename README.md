@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Fathan from Indonesia<br><br>- 🔭 I’m a student at University Technology of Malaysia<br>- 📚 I'm currently learning C++ and Python<br>- ⚡ In my free time I love to study</p>
+<p align="left">I'm Fathan from Indonesia<br><br>- 🔭 I’m a Software Engineering student at University Technology of Malaysia<br>- 📚 I'm currently learning C++ and Python<br>- ⚡ In my free time I love to study</p>
 
 ###
 
