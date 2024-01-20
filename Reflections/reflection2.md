@@ -1,4 +1,6 @@
-**Designing a poster for this assignment was both challenging and rewarding.**
+**Assignment 2**
+
+Designing a poster for this assignment was both challenging and rewarding.
 1. I improved my drawing skills by considering color schemes, fonts and graphic elements. 
 2. Moving the poster in the limited space required me to prioritize information. 
 3. Using a graphic design program improved my skills, while research became essential when gathering content.
