@@ -2,7 +2,7 @@
 
 Visiting NALI 2023 my expectations. Navigating through a diverse range of topics, I broadened my knowledge and developed a deeper appreciation for interdisciplinary perspectives.
 
-**Key Takeaways:**
+**What I gained...**
 
 1. **Varied Subjects:** The exhibition covered scientific research, technology, social issues, and art, expanding my academic horizons.
 
