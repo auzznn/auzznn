@@ -1,4 +1,4 @@
-**Title: My Journey Through UTM Digital**
+**Assignment 3**
 
 **Introduction:**
 Walking into UTM Digital, I felt a surge of anticipation, eager to explore the technological hub that plays a pivotal role in our academic environment.
