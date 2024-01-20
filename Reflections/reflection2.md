@@ -1,4 +1,5 @@
 **Assignment 2**
+
 Designing a poster for this assignment was both challenging and rewarding.
 
 **What I gained..**
