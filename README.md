@@ -51,6 +51,17 @@
 
 ###
 
+<h3 align="left">⌨️  Assignments and Reflections</h3>
+
+###
+<p align="left">
+Can you believe the semester is almost over? It's wild to think about all the assignments and reflections I've tackled in the past few months. Each task was like a mini adventure, pushing me to dive deeper into the subjects and also explore a bit about myself. This semester has been a mix of challenges and victories, and looking back, it's pretty cool to see how much I've learned and grown. So, in this portfolio, I'm throwing together a bunch of assignments and reflections to give you a peek into my academic ride. Come along as I chat about the ups, downs, and everything that shaped my journey this semester.
+
+
+[VIEW ASSIGNMENTS](https://github.com/auzznn/auzznn/tree/main/Assignments)</br>
+[VIEW REFLECTIONS](https://github.com/auzznn/auzznn/tree/main/Reflections)
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
