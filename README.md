@@ -1,3 +1,4 @@
+
 <div align="center">
   <a href="https://www.linkedin.com/in/fathan-auzan-asykur-444210220/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -19,11 +20,15 @@
 
 ###
 
+
+<p align="center">
+  <img src="https://i.imgur.com/MiaVToc.jpeg" width="200"/>
+</p>
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Fathan from Indonesia<br><br>- 🔭 I’m a Software Engineering student at University Technology of Malaysia.<br>- 📚 I'm currently learning C++ and Python.<br>- ⚡ In my free time I love to study, watch shows/movies, listening to music.<br>- 🤖 Currently working on a modded Nintendo Switch community! </p>
+<p align="left">I'm Fathan Auzan Asykur from Indonesia<br><br>- 🔭 I’m a Software Engineering student at the University Technology of Malaysia.<br>- 📚 I'm currently learning C++ and Python.<br>- ⚡ In my free time I love to study, watch shows/movies, listening to music.<br>- 🤖 Currently working on a modded Nintendo Switch community! </p>
 
 ###
 
